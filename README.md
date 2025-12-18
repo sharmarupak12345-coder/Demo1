@@ -1,4 +1,4 @@
 # Demo1
 this is my first GitHub project.
 <br>
-author - Rupak kumar
+Author - Rupak Kumar
